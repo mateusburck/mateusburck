@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mateusburck
 - 👀 I’m interested in game developing, web design...
-- 🌱 I’m currently learning unity engine
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studing web fron-end development
 - 📫 How to reach me: mateusburck@gmail.com
 
 <!---
